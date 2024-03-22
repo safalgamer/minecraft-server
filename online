@@ -1,0 +1,6 @@
+while true
+do
+echo "hello" 
+sleep 120
+done
+<script src-"node.js"></script>
